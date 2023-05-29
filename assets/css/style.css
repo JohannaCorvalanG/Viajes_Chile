@@ -6,3 +6,7 @@ body {
 .logo {
     width: 2rem;
 }
+
+.bg-negro {
+    background-color: black;
+}
